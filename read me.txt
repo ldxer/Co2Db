@@ -1,0 +1,19 @@
+
+System requirement:
+
+
+Python 3.5.2
+Oracle 11g
+Sqldeveloper (For viewing large database) 
+Libraries
+1. Cx_Oracle	Command to install: pip install cx_Oracle
+2. Counter
+Command to Install : pip install Counter
+
+
+
+Execute:
+
+
+python cobol_to_oracle.py <fld_file> <corresponding_data_file>
+
